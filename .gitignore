@@ -1,0 +1,5 @@
+# Dependency directories
+apirest=farmacia/node_modules/
+
+frontend-farmacia/dist/
+frontend-farmacia/node_modules/
